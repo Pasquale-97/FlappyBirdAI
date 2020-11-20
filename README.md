@@ -1,6 +1,6 @@
 # flappy-bird-ai
 
-TweetWorld 
+Flappy Bird AI
 
 An AI made using the NEAT Python module that is able to play Flappy Bird.
 
