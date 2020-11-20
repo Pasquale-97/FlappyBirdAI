@@ -11,4 +11,4 @@ Copy the Github repo and run the flappy_bird.py class to see the AI come to life
 
 ## Acknowledgements
 
-- [techwithtim](https://github.com/techwithtim/NEAT-Flappy-Bird)
+- [Tech With Tim](https://github.com/techwithtim/NEAT-Flappy-Bird)
