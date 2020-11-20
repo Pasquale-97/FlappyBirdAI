@@ -2,7 +2,7 @@
 
 Flappy Bird AI
 
-An AI made using the NEAT Python module that is able to play Flappy Bird.
+An AI made using the NEAT Python module that is able to learn how to play Flappy Bird.
 
 
 ## Installation and Setup Instructions  
