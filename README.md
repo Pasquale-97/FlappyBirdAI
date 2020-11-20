@@ -6,7 +6,7 @@ An AI made using the NEAT Python module that is able to learn how to play Flappy
 
 NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary alogrithm that creates artificial neural networks.
 
-[Click](https://neat-python.readthedocs.io/en/latest/neat_overview.html) for more information about NEAT
+For more information about NEAT [Click Here](https://neat-python.readthedocs.io/en/latest/neat_overview.html)
 
 ## Installation and Setup Instructions  
 
