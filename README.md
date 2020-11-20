@@ -1,4 +1,4 @@
-# flappy-bird-ai
+# Flappy-Bird-AI
 
 Flappy Bird AI
 
